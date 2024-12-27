@@ -32,7 +32,7 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ahmeddmoustafa/sparks_systems_app.git
+   git clone https://github.com/Ahmeddmoustafa/sparks-systems.git
 
    ```
 
