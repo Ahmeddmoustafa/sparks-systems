@@ -1,0 +1,8 @@
+{
+    "appTitle":"Sparks Systems",
+    "orderMetrics":"Total Orders",
+    "salesMetrics":"Average Sales",
+    "returnsMetrics": "Number Of Returns",
+    "months": "Months",
+    "orders":"Orders"
+}
