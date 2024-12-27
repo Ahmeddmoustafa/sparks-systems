@@ -16,7 +16,6 @@ This is a fully functional Flutter app designed to display various metrics, incl
    - The source code of the app.
    - A `README.md` file (this file) with setup instructions.
    - Any assumptions made during development.
-3. Optional: Unit tests for critical parts of the application.
 
 ## Setup and Running the App
 
@@ -33,7 +32,7 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/sparks_systems_app.git
+   git clone https://github.com/Ahmeddmoustafa/sparks_systems_app.git
 
    ```
 
